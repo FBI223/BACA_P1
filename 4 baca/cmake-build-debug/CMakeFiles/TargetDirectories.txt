@@ -1,0 +1,3 @@
+C:/Users/msztu/CLionProjects/untitled/baca/wyznaczniki/2 projekt baca nr 4/cmake-build-debug/CMakeFiles/2_projekt_baca_nr_4.dir
+C:/Users/msztu/CLionProjects/untitled/baca/wyznaczniki/2 projekt baca nr 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msztu/CLionProjects/untitled/baca/wyznaczniki/2 projekt baca nr 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

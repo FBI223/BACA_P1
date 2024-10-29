@@ -1,0 +1,3 @@
+C:/Users/msztu/CLionProjects/untitled/baca/nr 3 _v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/msztu/CLionProjects/untitled/baca/nr 3 _v2/cmake-build-debug/CMakeFiles/nr_3__v2.dir
+C:/Users/msztu/CLionProjects/untitled/baca/nr 3 _v2/cmake-build-debug/CMakeFiles/edit_cache.dir

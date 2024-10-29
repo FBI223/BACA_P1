@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/msztu/CLionProjects/untitled/baca/nr 3 _v2/main.cpp
+iostream
+-
+bitset
+-
+string
+-
+iomanip
+-
+

@@ -1,0 +1,3 @@
+C:\Users\msztu\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\nr_3__v2.dir/objects.a
+C:\PROGRA~1\MinGW\bin\ar.exe cr CMakeFiles\nr_3__v2.dir/objects.a @CMakeFiles\nr_3__v2.dir\objects1.rsp
+C:\PROGRA~1\MinGW\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\nr_3__v2.dir/objects.a -Wl,--no-whole-archive -o nr_3__v2.exe -Wl,--out-implib,libnr_3__v2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\nr_3__v2.dir\linklibs.rsp

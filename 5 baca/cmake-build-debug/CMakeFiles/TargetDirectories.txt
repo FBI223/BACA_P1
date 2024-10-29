@@ -1,0 +1,3 @@
+C:/Users/msztu/CLionProjects/untitled/baca/ostatnia stacja v2/cmake-build-debug/CMakeFiles/ostatnia_stacja_v2.dir
+C:/Users/msztu/CLionProjects/untitled/baca/ostatnia stacja v2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msztu/CLionProjects/untitled/baca/ostatnia stacja v2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
