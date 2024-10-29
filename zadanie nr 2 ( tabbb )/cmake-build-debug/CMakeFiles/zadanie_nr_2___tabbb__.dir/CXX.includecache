@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/msztu/CLionProjects/untitled/baca/zadanie nr 2 ( tabbb )/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+
